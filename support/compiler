@@ -1,0 +1,8 @@
+_asciidoc_compile() {
+  [[ $1 == *.adoc ]] && asciidoctor $1 && echo "Compiling File: $1"
+}
+
+export -f _asciidoc_compile
+
+fswatch -0 -r . | xargs -0 -I {} bash -c "_asciidoc_compile {}"
+

@@ -1,0 +1,5 @@
+comp=$(if [[ -e ~/.box-name ]]; then echo $(cat ~/.box-name); else echo $(hostname); fi | tr ' ' '-' )
+
+git add --all
+git commit -m "Auto Save at: $(date "+ %a %d / %m %b / %Y")"
+git push origin "$comp"

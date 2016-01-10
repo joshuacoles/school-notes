@@ -1,0 +1,14 @@
+# Checks for fswatch
+command -v foo >/dev/null 2>&1 || { echo "Please install fswatch for automatic compilation." >&2; exit 1; }
+
+# Starts compiler in background
+screen -dmS asciidoc-compiler ./compiler
+
+comp=$(if [[ -e ~/.box-name ]]; then echo $(cat ~/.box-name); else echo $(hostname); fi | tr ' ' '-' )
+
+# Setup git
+git checkout -b "$comp"
+git push origin "$comp"
+
+# Setup auto-commit
+(crontab -l 2>/dev/null; echo "0,30 * * * * $(dirname $0)/auto-commit")
