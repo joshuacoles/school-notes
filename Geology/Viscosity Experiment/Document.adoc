@@ -1,0 +1,36 @@
+= Viscosity of Lava (Treacle) vs Crystal Content (Sand)
+
+NOTE: Viscosity, __"The resistance of a fluid to flow."__
+
+== Prediction
+The higher the crystal content the more viscose the material
+
+== Method
+
+. Get 3 test tubes of treacle.
+. Label the 1, 2, 3. This will be the number of spatulas of sand to add.
+. Add the required amount of sand to the tubes.
+. Mix the sand through the treacle.
+. On all three test tubes make two markings. One just above the treacle another
+  5cm (0.05m) further up the tube
+. Rotate each tube 30&deg;.
+. For each tube do:
+.. When the treacle passes the first marker start a stop watch.
+.. When it passes the second stop the stop watch.
+. Use the equation stem:[v = d / t] where stem:[d = 0.5m] and
+  stem:[t = the recorded time].
+
+== Results
+
+[options="header"]
+|==================================================
+| Tube / Spatulas of sand | Time (s) | Speed ms^-1^
+|            1            |   35.0   |    1.750
+|            2            |   26.9   |    1.345
+|            3            |   25.6   |    1.280
+|==================================================
+
+== Conclusion
+The greater the solid content of a fluid the the higher the viscosity.
+
+  solid content ∝ viscosity

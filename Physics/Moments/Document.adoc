@@ -1,0 +1,27 @@
+= Moments
+:stem: latexmath
+
+When a force is applied &perp; to a "pivot" point, a turning effect
+is produced. Turning forces are called call *"moments"*.
+
+image::diagram_1.png[]
+
+stem:[moment = force * distance]
+
+When the force is measured in Newtons and the distance is measured in meters the
+moment is measured in Nm (newton meters).
+
+*Moments are NOT the same as mechanical work done.*
+
+The difference is:
+
+  - Work done is measured in Joules and moments are measured in Newton meters
+
+  - In work done energy is transferred where as a moment does not transfer
+    energy.
+
+  - In work done the distance traveled is in the direction of the force where as
+    in a moment the distance is perpendicular to the force.
+
+  - Work done would produce a change in kinetic energy where as a moment does
+    not.

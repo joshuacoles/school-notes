@@ -1,0 +1,34 @@
+= Hooke's Law Experiment
+
+== Aim
+To determine the behavior of a spring within the elastic limit
+
+== Diagram
+image:diagram.png
+
+== Method
+. Setup as per the diagram.
+. Check the spring has not exceeded its elastic limit by attempting to compress
+  it, if it compresses it has exceeded its elastic limit and needs to be replaced.
+. Measure on the ruler the position of the bottom of the spring when it is at rest.
+. For a weight of 1-6 N repeat 2 times per:
+.. Hang the specified weight onto the spring.
+.. Guide the weight down until it supports itself to ensure it does not bounce.
+.. Measure the new position of the bottom of the spring.
+.. Minus the original position from this to obtain the extension distance.
+.. Perform the check described in step 2 repeating the experiment again with
+   the new spring if fails.
+.. Record the result.
+
+== Results
+
+.Results
+|===========================================
+| F (N) |   1   |   2   |   3   |  Average
+|   1   | 0.032 | 0.032 | 0.033 | tcomp:mean
+|   2   | 0.069 | 0.070 | 0.070 | tcomp:mean
+|   3   | 0.108 | 0.108 | 0.109 | tcomp:mean
+|   4   | 0.145 | 0.144 | 0.145 | tcomp:mean
+|   5   | 0.182 | 0.182 | 0.182 | tcomp:mean
+|   6   | 0.221 | 0.221 | 0.223 | tcomp:mean
+|===========================================

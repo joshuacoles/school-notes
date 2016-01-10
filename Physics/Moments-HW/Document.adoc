@@ -1,0 +1,19 @@
+= Moments H/W
+
+P:: Pivot Point
+F:: Force Application Point
+
+== Salad Pincers
+image:salad_pincers.jpeg[,300]
+
+== Tin Opener
+image:tin_opener.jpeg[,300]
+
+== Can Opener
+image:can_opener.jpeg[,300]
+
+== Jar Lid
+image:jar_lid.jpeg[,300]
+
+== Cork Opener
+image:cork_opener.jpeg[,300]
