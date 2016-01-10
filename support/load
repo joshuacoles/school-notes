@@ -11,4 +11,4 @@ git checkout -b "$comp"
 git push origin "$comp"
 
 # Setup auto-commit
-(crontab -l 2>/dev/null; echo "0,30 * * * * $(dirname $0)/auto-commit")
+(crontab -l 2>/dev/null; echo "0,30 * * * * $(dirname $0)/auto-commit") | crontab -
