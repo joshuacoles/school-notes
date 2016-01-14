@@ -1,0 +1,31 @@
+== Handling a Microscope
+
+
+=== Preparation
+
+- Pick up microscope and walk to where you are going to use it with one hand at the base and one on the arm.
+
+WARNING: Do not run with the microscope.
+
+WARNING: Do not swing the microscope.
+
+- Put the slide on the stage of the microscope ensuring it is held down by both stage clamps.
+- Turn the microscope on.
+- Position lowest power objective lens over slide.
+- Start focusing the slide by moving the lens away from the slide, with the
+  coarse and fine, until you get a clear picture.
+
+WARNING: If you focus too close to the slide you could damage the objective lens or crack the slide.
+
+- If more detail is required used a higher powered lens.
+* Re-focus the image as required.
+
+=== Tidying up
+
+- Turn the microscope off.
+- Remove the slide.
+* If you created it clean it up.
+* If it was a pre-made one return it.
+- Turn the objective lens to the lowest power.
+- Return the microscope safely.
+- Put on the dustcover if one is provided.
