@@ -25,3 +25,10 @@ The difference is:
 
   - Work done would produce a change in kinetic energy where as a moment does
     not.
+
+== Balancing
+
+An object is in "equilibrium" (balenced) when the sum of the clockwise
+moments are equal to the sum of the anti-clockwise moments.
+
+&sum; clockwise moments = &sum; anti-clockwise moments
