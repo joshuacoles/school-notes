@@ -1,0 +1,19 @@
+= Moments Questions
+
+== 1
+
+image::question_1.png[]
+
+&sum;clockwise = &sum;anti-clockwise
+
+  10 * 5 = F * 2
+      50 = F * 2
+       F = 25N
+
+== 2
+
+image::question_2.png[]
+
+  3 * 5 + 5 * 10 = F * 2
+              65 = F * 2
+               F = 32.5N
