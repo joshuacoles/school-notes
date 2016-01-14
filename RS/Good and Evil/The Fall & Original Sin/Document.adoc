@@ -1,0 +1,29 @@
+= The Fall & Original Sin
+
+Some people believe that being made in the image of God, humans would have
+been immortal but that they lost hitter immortality when they ate the fruit.
+Although the phrase 'original sin' doesn’t appear in the Bible the idea is
+found in Paul (Romans 5:12 + 1 Corinthians 15:22).
+
+== The story of Genesis and the Tree of Knowledge of Good and Evil
+
+The story in which Adam and Eve disobey God and eat the fruit from the Tree of
+Knowledge of Good and Evil. By doing this humanity lost its state of innocence
+and sin enters the world.
+
+The inclination to do wrong from birth is Original Sin
+
+Eve disobeys God and Adam and Eve use the freewill that God has given them to
+do what he has commanded them not to do. The perfect world is destroyed and so
+too is the perfect relationship with God that humans originally had.
+
+They can only return God through Jesus’ sacrifice - Redemption
+
+== Quotes
+rs::quote[Romans 5:12]
+
+rs::quote[1 Corinthians 15:22]
+
+== Explain Christian Beliefs about the Devil (6 marks)
+
+include::question_1.resource.pdf[]
