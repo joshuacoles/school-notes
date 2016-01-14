@@ -1,0 +1,10 @@
+= Center of Mass/Gravity
+
+Objects have their mass distributed throughout their volume however there is
+one point with in volume of the mass where the mass can be thought to be evenly
+distributed around. This is called the *Center of Mass* and we can think of the
+object as having all its mass concentrated at that point.
+
+As weight is the force of gravity acting on a mass, we can also think of the
+force of gravity as acting at that point. When we are thinking about the
+influence of the force of gravity, we say it acts on the center of gravity.
