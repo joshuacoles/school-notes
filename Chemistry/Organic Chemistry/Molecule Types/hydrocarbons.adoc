@@ -1,0 +1,11 @@
+== Hydrocarbons
+
+Molecules that contain only Hydrogen and Carbon atoms.
+
+Carbon can form 4 ionic bonds
+
+Hydrogen can form 1 ionic bond.
+
+Alkenes and Alkanes can be distinguished between saturated and unsaturated
+compounds is to add red bromine water. In the presence of unsaturated
+compounds, the red colour disappears.

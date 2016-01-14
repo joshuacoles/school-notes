@@ -1,0 +1,35 @@
+== Alkanes
+General formula of C~n~H~2n+2~
+
+NOTE: Alkanes are *saturated* hydrocarbons.
+      They contain only single covalent bonds between carbon atoms.
+
+They belong to a homologous series:
+- Have similar chemical properties
+- Have functional group
+- Show gradual change in physical properties, e.g. boiling point
+- Differ by one or more CH2 units
+
+The larger the molecule the stronger the intermolecular forces
+(higher boiling/melting points).
+
+=== Reactions
+
+==== Burning / Combustion / Oxidisation
+
+- Exothermic
+
+===== Complete
+CH~4(g)~ + 2O~2(g)~ —> CO~2(g)~ + 2H~2~O~(l)~
+
+===== Incomplete
+CH~4(g)~ + O~2(g)~ —> CO~(g)~ + 2H~2~O~(l)~
+
+In-complete Combustion (limited supply of O2) — flame is luminous yellow and
+can be ‘smokey’ due to soot formation (carbon) and poisonous
+carbon monoxide (CO).
+
+==== With bromine
+Only happens in the presence of UV/white light.
+
+CH~4~ + Br~2~ —> CH~3~Br + Hbr

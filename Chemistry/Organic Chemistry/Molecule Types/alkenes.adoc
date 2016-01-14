@@ -1,0 +1,25 @@
+== Alkenes
+
+Alkenes are a family of hydrocarbons compounds with the general formula
+of C~n~H~2n~
+
+NOTE: Alkenes are *unsaturated* hydrocarbons.
+      They contain at least one double covalent bonds between carbon atoms.
+
+
+Alkenes are homologous series for the same reasons as the alkanes.
+
+An alkene contains one double covalent bond between carbon atoms.
+
+The simplest alkane is ethene. It has the formula of C~2~H~4~
+
+image::ethane.png[]
+
+The second simplest is propane. It has the formula of C~3~H~6~
+
+image::propane.png[]
+
+Draw all the possible isomers of the alkene containing 4 carbon atoms.
+
+Naming:
+{number_name}-{position of double bond}-ene`
