@@ -5,4 +5,3 @@ _asciidoc_compile() {
 export -f _asciidoc_compile
 
 fswatch -0 -r . | xargs -0 -I {} bash -c "_asciidoc_compile {}"
-
