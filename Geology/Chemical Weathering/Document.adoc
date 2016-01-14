@@ -1,0 +1,14 @@
+= Chemical Weathering
+
+== Definitions
+Hydrolysis::
+  Minerals breaking down by reacting with water. Under acidic conditions
+  feldspar breaks down into kaolin (clay minerals).
+
+Carbonation::
+  Reaction of mineral with the carbonic acid produced by the solution of CO~2~
+  in water.
+
+Oxidation::
+  When minerals combine with Oxygen. A red-brown weathering crust develops on
+  iron-containing rocks.
