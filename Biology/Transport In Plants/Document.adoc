@@ -1,0 +1,40 @@
+= Transport in Plants
+
+== What do we need to transport?
+- Mineral ions
+- Water
+- Glucose
+- Gases
+  * CO~2~
+  * O~2~
+
+== Water
+Water is lost from the leaves.
+
+Constant stream of: transpiration stream.
+
+.Process
+- Absorbed from the soil through osmosis.
+* Has a low water potential due to the high concentration of minerals moved in
+  through active transport from the soil.
+* Moved through <<Xylem>> to other cells
+
+NOTE: When fields flood the roots are starved of Oxygen so cannot do active
+      transport so have a higher water potential than normal.
+
+The water is moved by the pull of the water at the leaves on the
+water at the roots.
+
+== Vascular (Transport) Tissues
+
+All in the middle of root. Means the growing tip always has access to the
+resources.
+
+=== Xylem
+NOTE: Water is both cohesive (sticks to its self) and adhesive (sticks to other
+      things). Due to this the xylem is a constant flow of water.
+
+Dead
+
+=== Phloem
+ALIVE!!!!!!!
