@@ -1,0 +1,9 @@
+= Center of Gravity
+
+When something is balanced the sum of their anti-clockwise moments is equal to the sum of their clockwise moments.
+
+The centre of mass of an object is where all mass is evenly distributed around that point.
+
+== Finding the Center of Mass
+
+When you have a symmetrical object made of an uniform material it's centre of mass is in the exact centre of the object.

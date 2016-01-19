@@ -5,3 +5,5 @@ include::hydrocarbons.adoc[]
 include::alkanes.adoc[]
 
 include::alkenes.adoc[]
+
+include::catalytic_cracking.adoc[]

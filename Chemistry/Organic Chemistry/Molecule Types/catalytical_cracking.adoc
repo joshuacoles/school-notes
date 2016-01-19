@@ -1,0 +1,14 @@
+== Catalytic Cracking
+
+Type:: Thermal Decomposition.
+Input:: A long chain alkane such as liquid paraffin (C~20~H~42~).
+Output:: A series of smaller alkanes and alkenes.
+Temperature:: 600-700&deg;^c^
+Catalyst:: Pumice, aluminium oxide or pieces of ceramic or zeolites (in
+           industry)
+Uses:: Increase fuel supply by splitting un-volitle long hydrocarbons into more
+       volatile small chains +
+       Produce alkenes for making polymers
+
+WARNING: Before cracking you must remove sulphur. Which, when burned, forms
+         SO~2~ causing acid rain.

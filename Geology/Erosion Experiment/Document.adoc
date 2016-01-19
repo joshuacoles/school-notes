@@ -1,0 +1,16 @@
+= Erosion: Shake, Rattle and Roll
+
+== Prediction
+
+The rock will lose material specifically at the corners and sides to become roughly spherical.
+
+== Results
+
+A shake is one minute of constant shaking
+
+The beginning mass `8.5g`
+
+[format="csv",options="header"]
+|===================================================
+include::results.csv[]
+|===================================================
