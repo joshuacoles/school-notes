@@ -1,0 +1,59 @@
+= Transportation in Plants (pg 133-4; 1,2,4)
+
+toc::[]
+
+== 1
+
+[loweralpha]
+.1
+. -2.4%
+. Osmosis is the process that is causing the change in the masses of the chips.
+. Solution A as the most mass, water, was lost from the chip and it moved into
+  the sucrose solution.
+. Solution C as the most mass, water, was gained by the chip from the sucrose
+  solution.
+. Solution B as the chip experienced the least change in mass.
+. A partially permeable membrane is a membrane that allows somethings to permeate
+  through it but not all.
+
+[loweralpha]
+.2
+Explain how each cell is adapted to its function:
+
+Root Hair::
+[none]
+  - Has long, thin outer root projections that penetrate between the soil particles.
+
+  - Ensures there is a very high concentration of mineral ions in the cell
+    through active transport.
+
+  - This leads to a low &Psi; inside the cell and a high &Psi; outside the cell
+    in the soil causing osmosis.
+
+[vertical]
+Xylem Vessel::
+[none]
+  - Hollow (no cytoplasm)
+  - Walls contain lignin (woody material)
+  * Very strong
+  * Lignin impermeable to water
+  
+[vertical]
+Guard Cell::
+[none]
+  - Unusual "banana" shape.
+  - Part of the cell wall near the stoma is particularly thick.
+  - Bend outwards when turgid.
+  - Water is drawn in in the light.
+
+
+
+[loweralpha]
+.4
+. Diagram Key
+[upperalpha]
+.. Epidermis
+.. Phloem
+.. Xylem
+. The red, aqueous, dye would be contained in the Xylem as it would be in the
+  water that travels in them.
