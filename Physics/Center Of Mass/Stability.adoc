@@ -1,9 +1,36 @@
 = Center of Gravity
 
-When something is balanced the sum of their anti-clockwise moments is equal to the sum of their clockwise moments.
+The centre of mass of an object is where all mass is evenly
+distributed around that point.
 
-The centre of mass of an object is where all mass is evenly distributed around that point.
+The CoG is where the force is considered to act from. E.g the moment
+is worked out as the force * the perpendicular distance from the
+pivot.
 
 == Finding the Center of Mass
+When you have a symmetrical object made of an uniform material it's
+centre of mass is in the exact centre of the object.
 
-When you have a symmetrical object made of an uniform material it's centre of mass is in the exact centre of the object.
+In a non-uniform shape or material you have have to use a suspended
+plumb line from various points on the shape and then trace them. The
+intersection point is the center of mass
+
+== Stability
+When something is balanced (stable) the sum of their anti-clockwise
+moments is equal to the sum of their clockwise moments. If they are
+not then the object is not stable
+
+The more stable an object the harder it is to push over.
+
+.Good for stability
+- Low CoG
+* ensures the CoG doesn't go over the pivot easily
+- Broad bases
+* large distance so large moment
+
+== Forces on a Beam
+When an object moves across a stable beam with multiple pivots the
+force the pivots are applying is:
+
+`((length of beam - objects distance from pivot)/length of beam) *
+force the object is applying`

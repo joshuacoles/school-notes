@@ -1,0 +1,47 @@
+= Investigating the forces on a balanced beam
+
+== Aim
+To determine how the forces supporting a beam vary as the position of
+a load moves between two supports.
+
+== Hypothesis
+The vertical support forces should balance the weight (&sum;F = 5N)
+
+Beams act as two pivot points and two counter moments (principle of
+moments must apply).
+
+== Diagram
+image::diagram.png[]
+
+== Method
+. Setup the apparatus as per the diagram.
+. Zero the newton meters to eliminate the effect of the weight of the
+  ruler.
+. At 20cm increments from 0cm to 100cm do 3 times:
+.. Place the weight at the point on the ruler.
+.. Record the readings on the newton meters.
+
+== Results
+[format="csv",options="header", cols="^*"]
+|===================================================
+include::results.csv[]
+|===================================================
+
+== Conclusion
+Our hypothesis that the sum of the support forces would balance the 5N
+weight has been proven as the results show &sum;F = 5N
+
+For the second hypothesis the proof is below:
+....
+In balance:
+  counter clockwise moments = clockwise moments
+                      5 x d = F1 x 100
+                     5 x 20 = 1 x 100
+                        100 = 100
+....
+
+This proves that the beam acts inline with the principle of moments
+
+== Evaluation
+I have a high level of confidence with my conclusion as they fit with
+previous knowledge and the results follow predictable trends.
