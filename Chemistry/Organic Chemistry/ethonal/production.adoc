@@ -1,0 +1,33 @@
+== Production
+
+=== Ethanol From Sugar
+
+C~6~H~12~O~6~ -> 2 CH~3~CH~2~OH + 2 CO~2~
+
+Yeast and sugary solution at about 37&deg;^C^
+
+The enzymes break down the glucose to ethanol and carbon dioxide.
+
+A weak solution of ethanol in water is produced. This is ideal for
+making wine (about 12% ethonal) and beer (about 3% ethonal).
+
+Fractional distillation is used to obtain higher concentrations of ethanol
+(40%) in spirits like whisky, gin and vodka.
+
+.Pros
+- Renewable
+- Only 37&deg;^C^
+
+.Cons
+- Slow
+- By-products (CO~2~)
+
+=== Ethanol From Ethene
+
+Hydration Reaction
+
+CH~2~=CH~2~~(g)~ + H~2~O~(g)~ -> CH~3~-CH~2~-OH
+
+Ethene (a gas) and steam (gaseous water) are passed over phosphoric acid (H~3~PO~4~), the catalyst.
+
+Temperature of about 300&deg;^C^ and a pressure of about 60-70 atm (atmospheric pressure).

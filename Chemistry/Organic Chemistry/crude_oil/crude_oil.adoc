@@ -1,0 +1,50 @@
+== Crude Oil
+
+=== Formation
+          Remains of plants and animals that dies millions of years ago.
+        - 200M years ago.
+        - Seas full of life.
+        - Dies but no O2 for decomposition so energy trapped.
+        - Layers form above the dead material.
+        - Pressure + heat builds up.
+        - Breaks down deposited organic remains into molecules that
+          form crude oil and natural gas.
+        - Oil forced up till it reaches a non-porous material and forms
+          a reservoir.
+=== Uses
+Release stored energy (alkanes)
+Plastics and Polymers (alkenes)
+
+=== Composition
+Mixture of different hydrocarbons (100,000s)
+
+=== Obtained
+Extracted by drilling through see beds. Then piped to refineries.
+
+=== Drawbacks
+.Burning
+- Global Warming
+- Global Dimming
+- Air Pollution
+
+.Drilling
+- Oil spills
+
+.Other
+- High value can cause conflict (large amount of oil come from
+  countries that are politically unstable).
+  
+    - Distillation
+        - Fractional Distillation
+            - Hot crude oil (>300˚C) is pumped into the bottom.
+            - The very longest alkanes have the strongest
+              intermolecular forces and so do not boil, but exit the
+              column at the bottom.
+            - This tick black liquid is Bitumen (tar).
+            - Other fractions rise though the column, passing through
+              bubble caps which slowly cool them.
+            - At each tray of bobble-caps the longest remaining
+              molecules condensed exist to the sides as liquids.
+            - Only, the very strongest molecules make it to the top of
+              the tower without condensing. These gases are then cooled
+              and compressed to for LPG - Liquid Petroleum Gas.
