@@ -1,0 +1,84 @@
+= Transport in Plants
+
+toc::[]
+
+== What do we need to transport?
+- Mineral ions
+- Water
+- Glucose
+- Gases
+  * CO~2~
+  * O~2~
+
+== Water
+Water is lost from the leaves.
+
+Constant stream of: transpiration stream.
+
+.Process
+- Absorbed from the soil through osmosis.
+* Has a low water potential due to the high concentration of minerals moved in
+  through active transport from the soil.
+* Moved through <<Xylem>> to other cells
+
+NOTE: When fields flood the roots are starved of Oxygen so cannot do
+      active transport so have a higher water potential than normal.
+
+The water is moved by the pull of the water at the leaves on the
+water at the roots.
+
+== Vascular (Transport) Tissues
+
+All in the middle of root. Means the growing tip always has access to the
+resources.
+
+The xylem and phloem are surrounded by packing tissue cambium.
+
+NOTE: In a root the xylem are in the center to provide support and as an anchor
+
+NOTE: In a stem they are spread evenly around the center (in a ring) to provide
+      support in wind.
+
+=== Xylem
+NOTE: Water is both cohesive (sticks to its self) and adhesive (sticks to other
+      things). Due to this the xylem is a constant flow of water.
+
+Dead
+
+Water proof
+
+One directional
+
+They are the central core of the root tissue. Serves well to anchor
+it to the ground (very strong).
+
+Transports water and minerals
+
+Completely hollow
+
+=== Phloem
+ALIVE!!!!!!!
+
+Translocates sugars and food materials up and down the plant in the
+form of sap.
+
+NOTE: Moved by active transport so requires a lot of energy and has
+      companion cells with a large number mitochondria (why they
+      appear full)
+
+== Root Hairs
+Absorbs water.
+
+Has a water proof root cap to protect the root as it grows into the ground
+
+Specialised epidermis cells
+
+Has a very thin cell wall
+
+image::root_hair.jpg[]
+
+.Water Transport
+. Mineral ions are transported into the cell by active transport
+  (requires energy) to decrease the &Psi;.
+. This means there is a steeper &Psi; gradient and water
+  travels faster.

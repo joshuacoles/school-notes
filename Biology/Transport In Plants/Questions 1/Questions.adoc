@@ -1,9 +1,5 @@
 = Transportation in Plants (pg 133-4; 1,2,4)
 
-toc::[]
-
-== 1
-
 [loweralpha]
 .1
 . -2.4%
@@ -37,7 +33,7 @@ Xylem Vessel::
   - Walls contain lignin (woody material)
   * Very strong
   * Lignin impermeable to water
-  
+
 [vertical]
 Guard Cell::
 [none]
