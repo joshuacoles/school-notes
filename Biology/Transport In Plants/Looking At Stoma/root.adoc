@@ -12,3 +12,27 @@ include::top.csv[]
 |===================================================
 include::bottom.csv[]
 |===================================================
+
+== Questions
+
+[qanda]
+What type of leaf was used in the experiment?::
+  Ivy leaves
+
+Were stomata present on both sides of the leaf?::
+  We did not observe any on the top.
+
+Why were 3 readings taken?::
+  To improve the reliability of the results
+
+Was there a significant difference in the number of stomata on the top vs the bottom? Why?::
+  Yes there were an average of 34 on the bottom compared to an average of 0 on the
+  top. This is because if they were on the top the sun would cause water to evaporate
+  quicker dehydrating the plant.
+
+What is the function of stomata?::
+  To intake CO~2~ and O~2~ and absorb water.
+
+What is the function of the guard cells? When would they be closed::
+  To close the stomata when having them open would be detrimental to the plant.
+  E.g when it is very hot and water would evaporate quickly from the leaves.

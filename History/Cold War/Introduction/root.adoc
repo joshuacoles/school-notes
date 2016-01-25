@@ -18,9 +18,11 @@
 - The USSR had lost 11M soldiers and 12M citizens compared to UK/US
   > 1M. Stalin suspected the US had manipulated them to do most of the
   fighting.
-- Throughout WW2 the US
+- Throughout WW2 the US has refused to share scientific secrets such
+  such as the atomic bomb. They then rubbed this in Stalin's face by
+  dropping it on Japan.
 
-.Different ideas for WW2
+.Different ideas for post WW2
 - The US and UK didn't want to repeat the same mistake as in WW1 and
   treat Germany to harshly, the USSR disagreed and wanted them to pay
   huge reparations to Russia.
@@ -30,9 +32,11 @@
   future war.
 - After WW2 the US wanted every country to choose its own system of
   government and leader (including Germany and USSR) (not satilites).
+- The US was worried about the "domino effect" where communism would
+  spread across borders and would be a disaster for their system of
+  capitalism.
 
 == The Grand Alliance
-
 [qanda]
 What was the Grand Alliance?::
   It was an alliance to defeat the Nazis. It was a marriage of
@@ -49,3 +53,21 @@ What were the 3 unwritten agreements?::
   - The USSR wanted its influence in communist Yugoslavia.
   - The US and UK wanted the USSR to accept their influence in Western
     Europe, Greece and Italy.
+
+=== Tehran Conference (1943)
+The Tehran conference while not particularly successful for improving
+the relations between all members of the big three did led Stalin and
+Roosevelt to agree on something, albeit that Churchill was wrong.
+
+=== Yalta Conference (1945)
+The Yalta conference helped to build on the understanding between
+Roosevelt and Stalin however was not without tension. Poland in
+particular was of much debate as all members of the Big Three had
+different ideas for it. These were:
+
+UK:: Joined the war to defend Poland
+US:: Wanted to halt the spread of communism through Europe (domino
+     effect) and not antagonise many Americans who had Polish roots.
+USSR:: Wanted a buffer zone between the USSR and the West especially
+       since they had been invaded from the West 3 times already that
+       century.

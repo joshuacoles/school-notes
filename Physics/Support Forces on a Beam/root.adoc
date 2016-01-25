@@ -11,7 +11,7 @@ Beams act as two pivot points and two counter moments (principle of
 moments must apply).
 
 == Diagram
-image::diagram.png[]
+image::diagram.jpg[]
 
 == Method
 . Setup the apparatus as per the diagram.
@@ -22,10 +22,7 @@ image::diagram.png[]
 .. Record the readings on the newton meters.
 
 == Results
-[format="csv",options="header", cols="^*"]
-|===================================================
-include::results.csv[]
-|===================================================
+image::table.png[,500]
 
 == Conclusion
 Our hypothesis that the sum of the support forces would balance the 5N
