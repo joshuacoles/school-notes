@@ -1,0 +1,35 @@
+= Weathering and Erosion
+
+== Chemical Weathering Definitions
+Hydrolysis::
+  Minerals breaking down by reacting with water. Under acidic conditions
+  feldspar breaks down into kaolin (clay minerals).
+
+Carbonation::
+  Reaction of mineral with the carbonic acid produced by the solution of CO~2~
+  in water.
+
+Oxidation::
+  When minerals combine with Oxygen. A red-brown weathering crust develops on
+  iron-containing rocks.
+
+== Dynamic Deposition
+image::diagram_1.png[]
+
+.Processes on the surface of the Earth
+Weathering:: The breakdown of rocks in situ (no transport)
+Erosion:: Wearing down of rocks involving movement.
+Transportation:: The movement of a substance.
+Deposition:: When a substance is deposited from the stream of a fluid, normally water.
+
+.Types of Transport Agents (erosion)
+  - Gravity
+  - Ice
+  - Wind
+  - Water
+
+== Examples of Weathering
+[format="csv",cols="",options="header"]
+|===================================================
+include::table_1.csv[]
+|===================================================

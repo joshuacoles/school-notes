@@ -1,0 +1,23 @@
+= Texture of Sedimentary Rocks
+
+Fragmental or clastic (made of broken particles)
+
+== Classifications
+Shape::
+  Round or angular
+Size::
+  Fine;; <1/16mm
+  Medium;; 1/16mm -> 2mm
+  Coarse;; >2mm
+Sorting::
+  The range of sizes. Well sorted, the same size. Poorly sorted,
+  large range.
+
+== Sorting
+The measure of sorted ranges from very well sorted to extremely poorly sorted depending on the range of sediment sizes present in the sample.
+
+The sorting can provide information on how the sediment was transported. Wind does not transport very coarse grains and the ones it does are deposited based on their size with the finer grains being transported further.
+
+Rivers flowing with high energy may transport coarse, medium or fine grained sediments however as the velocity of the water decreases the grains will be deposited the coarser ones first.
+
+The more well sorted a sediment is the more it has been transported as they have experienced more abrasion (with the ground) and attrition (with other sediment).
