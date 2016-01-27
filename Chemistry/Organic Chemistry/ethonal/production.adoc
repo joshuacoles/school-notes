@@ -14,14 +14,6 @@ making wine (about 12% ethonal) and beer (about 3% ethonal).
 Fractional distillation is used to obtain higher concentrations of ethanol
 (40%) in spirits like whisky, gin and vodka.
 
-.Pros
-- Renewable
-- Only 37&deg;^C^
-
-.Cons
-- Slow
-- By-products (CO~2~)
-
 === Ethanol From Ethene
 
 Hydration Reaction
@@ -31,3 +23,9 @@ CH~2~=CH~2~~(g)~ + H~2~O~(g)~ -> CH~3~-CH~2~-OH
 Ethene (a gas) and steam (gaseous water) are passed over phosphoric acid (H~3~PO~4~), the catalyst.
 
 Temperature of about 300&deg;^C^ and a pressure of about 60-70 atm (atmospheric pressure).
+
+== Dehydration
+
+Ethanol vapour is passed over hot alumninium oxide (Al~2~O~3~), the catalyst.
+
+C~2~H~6~O~(g)~ -> C~2~H~4~(g) + H~2~O~(l)~

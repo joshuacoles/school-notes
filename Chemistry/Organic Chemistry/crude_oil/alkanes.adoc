@@ -23,7 +23,8 @@ The larger the molecule the stronger the intermolecular forces
 CH~4(g)~ + 2O~2(g)~ —> CO~2(g)~ + 2H~2~O~(l)~
 
 ===== Incomplete
-CH~4(g)~ + O~2(g)~ —> CO~(g)~ + 2H~2~O~(l)~
+2CH~4(g)~ + 3O~2(g)~ —> 2CO~(g)~ + 4H~2~O~(l)~
+CH~4(g)~ + O~2(g)~ —> C~(g)~ + 2H~2~O~(l)~
 
 In-complete Combustion (limited supply of O2) — flame is luminous yellow and
 can be ‘smokey’ due to soot formation (carbon) and poisonous
