@@ -1,0 +1,7 @@
+= Archimedes Principle
+
+image::diagram.png[]
+
+When an object is immersed in a fluid, the object experiences an up thrust equal to the weight of the fluid displaced.
+
+Archimedes used an experiment involving a balance beam a two objects of the same weight on the balance beam. When both objects were immersed in water, the object with the greater volume displaced more water and therefore experience a greater up thrust. The stability (principle of moments) was destroyed and the beam titled. This proved that even though the mass and the weight of the objects were equal the volumes were not. This also proved fatal for the goldsmith. 

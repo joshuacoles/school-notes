@@ -1,0 +1,13 @@
+= Measuring Densities =
+Author Name <josh@coles.to>
+$(date)
+
+
+
+== Results ==
+[format="csv",cols="",options="header"]
+|===================================================
+include::results.csv[]
+|===================================================
+
+To convert gcm^-3^ to kgm^-3^ simply multiply it by the value by 1000.

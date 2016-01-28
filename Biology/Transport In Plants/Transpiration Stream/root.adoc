@@ -1,0 +1,24 @@
+= Transpiration Stream
+Joshua Coles <josh@coles.to>
+$(date)
+
+- Water evaporates from the leaves
+- Moves up the xylem to replace it through adhesion and cohesion (requires unbroken column of water)
+- Water moves from the from the roots to the stem
+- This lowers the &Phi; in the root causing more water to enter the leaves.
+
+== Transpiration
+The loss of water by evaporation from the leaves of the plant.
+
+The presence of an impermeable waxy cuticle over the epidermis reduces water loss.
+
+So the main loss is through the stomata
+
+== Adaptions
+.Thick waxy cuticle
+- Cuts water loss
+- Strengthens the leaf
+
+- Water layer on outside of mesophyll cells.
+- Water vapor.
+- Diffusion H~2~O through stomata.

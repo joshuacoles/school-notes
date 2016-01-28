@@ -27,6 +27,12 @@ NOTE: When fields flood the roots are starved of Oxygen so cannot do
 The water is moved by the pull of the water at the leaves on the
 water at the roots.
 
+.Uses
+- Provides leaves the water for photosynthesis
+- Carries mineral ions in solution
+- Keeps cells turgid (structural)
+- Cools leaf by allowing the evaporation of water removing heat
+
 == Vascular (Transport) Tissues
 
 All in the middle of root. Means the growing tip always has access to the
@@ -82,3 +88,59 @@ image::root_hair.jpg[]
   (requires energy) to decrease the &Psi;.
 . This means there is a steeper &Psi; gradient and water
   travels faster.
+
+== Transpiration Stream
+- Water evaporates from the leaves
+- Moves up the xylem to replace it through adhesion and cohesion (requires unbroken column of water)
+- Water moves from the from the roots to the stem
+- This lowers the &Phi; in the root causing more water to enter the leaves.
+
+Water intake in the root hairs causes a small amount of pressure. This and capillary action can push water up the xylem however is not powerful enough so the rest is trough transpirationn
+
+=== Transpiration
+The loss of water by evaporation from the leaves of the plant.
+
+The presence of an impermeable waxy cuticle over the epidermis reduces water loss.
+
+So the main loss is through the stomata
+
+==== Measurement
+.Weight Potometer
+Simplest method is by using a weight potometer.
+
+Assuming change in mass due to the water lost through transpiration
+
+WARNING: The soil must be sealed off to ensure you don't measure the loss of water by evaporation from the soil.
+
+Takes a long time to collect enough data.
+
+.Volume Potometer
+
+TODO: LOOK UP
+
+image::http://cheppila.com/wp-content/uploads/2013/09/Transp-7.jpg[]
+
+Method:
+
+. Take a healthy, leafy shoot.
+. Fill the whole apparatus with (under water).
+. Introduce a small air bottle at the end of the capillary tubing.
+. Cut steam under water at a slant (air bubbles less likely to get trapped).
+. Place stem in potometer under water so air does not enter xylem vessels and break the transpiration flow.
+. Allow time for the shoot to adjust to its surroundings.
+. Open the top on reservoir to move air bubble to end of capillary tubing.
+. Keep following the following conditions constant:
+.. Light intensity
+.. Temperature
+.. Humidity
+.. Air movement
+. Take readings by timing how long it takes for the air bubble to travel a set distance along the tube.
+
+=== Adaptions
+.Thick waxy cuticle
+- Cuts water loss
+- Strengthens the leaf
+
+- Water layer on outside of mesophyll cells.
+- Water vapor.
+- Diffusion H~2~O through stomata.

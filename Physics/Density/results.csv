@@ -1,0 +1,13 @@
+Material, Mass (g), Length (cm), Width (cm), Height (cm), Volume (cm3), &rho;=m/V (g.cm-3)
+Polystire, 0.8, 4, 3, 4, 48, 0.02
+Foam, 0.5, 1, 4, 5, 20, 0.03
+Wood, 15.9, 2, 3, 6, 36, 0.44
+Parafin, 51.9, 3, 4, 5, 60, 0.87
+Perspex Glass, 45.5, 2, 2, 10, 40, 1.14
+Glass, 96.1, 2, 2, 10, 40, 2.40
+Aluminium, 162.6, 5, 4, 3, 60, 2.71
+Marble, 110.3, 2, 2, 10, 40, 2.76
+Slate, 113.3, 2, 2, 10, 40, 2.83
+Iron, 256.1, 3, 3, 4, 36, 7.11
+Brass, 168.1, 2, 2, 5, 20, 8.41
+Lead, 575.6, 2, 5, 5, 50, 11.51
