@@ -1,0 +1,32 @@
+= Christianity and Science
+Joshua Coles <josh@coles.to>
+$(date)
+
+include::key_words.adoc[]
+
+== Topics to Cover
+- Scientific theories about the origins of the world.
+- Christian theories about the origins of the world.
+- The relationship between scientific and Christian understandings about the world and humanity.
+- What Christians believe about the relationship between humanity and animals.
+- Attitudes to animals and their treatment.
+- What Christians believe about stewardship and environmental issues.
+
+== Different Views
+
+.Scientific
+Believe that the world can be described entirely scientifically.
+
+.Scientific Christian
+Believe that the world was created by God but is governed by scientific laws God set in place.
+
+.Symbolic
+Believe that the Bible has certain truths but was written for the time not literally true.
+
+.Literalist / Creationist
+Believe that the Bible is literally true and science has no place in religion.
+
+include::questions.adoc[]
+
+== Story in Genesis
+Describes how God made the world for people to live in and that all that god made was to a plan with nothing happening by chance.
