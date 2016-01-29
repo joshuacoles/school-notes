@@ -1,14 +1,14 @@
-   Material   | Mass (g) | Length (cm) | Width (cm) | Height (cm) | Volume (cm3) | &rho;=m/V (g.cm-3)
-              |   0.8    |
-Polystire     |   0.5    |
-Foam          |       |
-Wood          |       |
-Parafin       |       |
-Perspex Glass |       |
-Glass         |       |
-Aluminium     |       |
-Marble        |       |
-Slate         |       |
-Iron          |       |
-Brass         |
-Lead          |
+|   Material    | Mass (g) | Length (cm) | Width (cm) | Height (cm) | Volume (cm3) | &rho;=m/V (g.cm-3)
+|===============|==========|=============|
+| Polystire     |    0.8   |             |
+| Foam          |    0.5   |             |
+| Wood          |   15.9   |             |
+| Parafin       |   51.9   |             |
+| Perspex Glass |   45.5   |             |
+| Glass         |   96.1   |             |
+| Aluminium     |  162.6   |             |
+| Marble        |  110.3   |             |
+| Slate         |  113.3   |             |
+| Iron          |  256.1   |             |
+| Brass         |  168.1   |             |
+| Lead          |  575.6   |             |
