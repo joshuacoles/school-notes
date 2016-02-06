@@ -1,0 +1,48 @@
+= The Physics of Brick =
+Joshua Coles <josh@coles.to>
+$(date)
+
+The mass of the brick was determined by using a 1kg mass, a pivot and a ruler. todo:[Include diagram of brick and 1kg masses with distances to balance of 16in for the 1kg and 6in for the mass].
+
+[asciimath]
+++++
+1 * 16 = m_b * 6
+
+   m_b = 16/6
+       = 2.67kg
+++++
+
+todo:[Picture of brick of A: 9.5cm B: 5.5cm and C: 19.5cm]
+
+[asciimath]
+++++
+V = 0.095 * 0.055 * 0.195 = 1.02 * 10_(-3)m^3
+++++
+
+The density of the brick is given by equation asciimath:[&rho; = m/V].
+[asciimath]
+++++
+&rho; = m/V = 2.67/1.02 * 10^(-3) = 2617kgm^(-3)
+++++
+
+The weight of the brick is given by the equation asciimath:[W = mg].
+[asciimath]
+++++
+W = mg = 26.7N
+++++
+
+The pressures are:
+.Side AB
+[asciimath]
+++++
+++++
+
+.Side AC
+[asciimath]
+++++
+++++
+
+.Side BC
+[asciimath]
+++++
+++++

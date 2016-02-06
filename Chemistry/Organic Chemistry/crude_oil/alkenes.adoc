@@ -13,11 +13,25 @@ An alkene contains one double covalent bond between carbon atoms.
 
 The simplest alkane is ethene. It has the formula of C~2~H~4~
 
-image::crude_oil/ethane.png[]
+[atomic, structural]
+----
+H H
+| |
+C=C
+| |
+H H
+----
 
 The second simplest is propane. It has the formula of C~3~H~6~
 
-image::crude_oil/propane.png[]
+[atomic, structural]
+-----
+H H H
+| | |
+C=C-C
+| | |
+H H H
+-----
 
 Draw all the possible isomers of the alkene containing 4 carbon atoms.
 

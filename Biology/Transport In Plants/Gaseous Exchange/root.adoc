@@ -1,0 +1,22 @@
+= Gaseous Exchange and Stomata =
+Joshua Coles <josh@coles.to>
+$(date)
+
+== Guard Cells ==
+
+image::http://image.tutorvista.com/content/plant-water-relations/stomatal-movement--dicot-plants.jpeg[,400]
+
+.Functions
+- Bring in CO~2~.
+- ...
+
+.Adaptions:
+- Has a strong/rigid inner cell wall.
+- Only cell in the epidermis with chloroplasts to photosynthesise.
+
+[ditaa]
+----
++----------------+              +---------+                 +--------------------------------+
+| Photosythesise | -----------> | Glucose | --------------> | Water moves in through osmosis |
++----------------+  Produces    +---------+  Lowers &Phi;   +--------------------------------+
+----

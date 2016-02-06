@@ -21,3 +21,25 @@ The sorting can provide information on how the sediment was transported. Wind do
 Rivers flowing with high energy may transport coarse, medium or fine grained sediments however as the velocity of the water decreases the grains will be deposited the coarser ones first.
 
 The more well sorted a sediment is the more it has been transported as they have experienced more abrasion (with the ground) and attrition (with other sediment).
+
+.Examples
+image::intheplaygroundofgiants.com/wp-content/uploads/2014/09/Figure-8-Particle-Sorting.jpg[]
+
+== Characteristics of sediments related to transport
+
+[format="csv",options="header"]
+|===================================================
+include::table.csv[]
+|===================================================
+
+Glacial clasts are often scratched (called striations).
+
+When comparing grains that have been transported by ice and that by wind you would see a much less sorted sample from the ice. This is due to the the fact that the wind is not powerful enough and air dense enough to pick up large grains ensuring that the are relatively well sorted before attrition ever takes place.
+
+glacier: `(3 - -1.6) / 2 = 2.3` (poorly sorted)
+
+river: `(0.9 - -0.6) / 2 = 0.75` (moderatly sorted)
+
+dune sand: `(2 - 1.1) / 2 = 0.45` (well sorted)
+
+beach: `(0.8 - -0.1) / 2 = 0.45` (well sorted)

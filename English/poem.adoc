@@ -1,0 +1,14 @@
+=== Form
+include::form.adoc[]
+
+=== Language
+include::Language.adoc[]
+
+=== Imagery
+include::imagery.adoc[]
+
+=== Rhyme & Rhythm
+include::rhyme & rhythm.adoc[]
+
+=== Tone
+include::tone.adoc[]

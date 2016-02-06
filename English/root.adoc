@@ -1,0 +1,20 @@
+= Poem Anthology =
+Joshua Coles <josh@coles.to>
+v1.0, $(date)
+
+.List of Poems
+. For Heidi With Blue Hair
+. Elegy For My Father’s Father
+. One Art
+. Reservist
+. Cold In The Earth
+. Meeting At Night
+. Because I Couldn’t Stop For Death
+. The Trees
+. The Trees Are Down
+. Praise Song For My Mother
+. Anthem For a Doomed Youth
+. Attack
+. My Parents
+. Tears, Idle Tears
+. Friend

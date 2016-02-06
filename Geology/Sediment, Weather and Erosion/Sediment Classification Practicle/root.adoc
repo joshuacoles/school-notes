@@ -1,0 +1,3 @@
+= Sediment Classification Practical =
+Joshua Coles <josh@coles.to>
+$(date)

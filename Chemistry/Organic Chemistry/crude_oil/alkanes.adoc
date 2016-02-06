@@ -34,3 +34,7 @@ carbon monoxide (CO).
 Only happens in the presence of UV/white light.
 
 CH~4~ + Br~2~ —> CH~3~Br + Hbr
+
+`methane + bromine -> bromomethane + hydrogen bromide`
+
+This is a substitution reaction.

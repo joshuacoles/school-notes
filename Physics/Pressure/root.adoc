@@ -1,0 +1,10 @@
+= Pressure =
+Author Name <mail@address.com>
+v1.0, `date`
+
+When a force is applied to an area, a pressure is exerted. Pressure is defined as the force per unit area. Pressure can be expressed mathematically using the formula asciimath:[Pressure = Force/Area] or asciimath:[p = F/A]. The standard unit for pressure is asciimath:[N/m^2] or asciimath:[Nm^(-2)]. This is called Pascal.
+
+[asciimath]
+++++
+p = F/A
+++++

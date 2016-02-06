@@ -8,4 +8,4 @@ Hydrogen can form 1 ionic bond.
 
 Alkenes and Alkanes can be distinguished between saturated and unsaturated
 compounds is to add red bromine water. In the presence of unsaturated
-compounds, the red colour disappears.
+compounds, the red colour disappears. This is an *addition reaction.*

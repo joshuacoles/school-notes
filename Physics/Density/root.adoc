@@ -11,14 +11,14 @@ Density = mass/volume
 
 &rho; = m/V
 
-image::http://previews.123rf.com/images/vvoennyy/vvoennyy1310/vvoennyy131000360/22744713-greek-letter-rho-hand-written-in-black-ink-on-white-background-Stock-Photo.jpg[, 100]
+image::http://previews.123rf.com/images/vvoennyy/vvoennyy1310/vvoennyy131000360/22744713-greek-letter-rho-hand-written-in-black-ink-on-white-background-Stock-Photo.jpg[, 70]
 ====
 
 Measured in kg/m^3^ or kgm^-3^.
 
-The density of water is 1 gcm^-3^ or 1000 kgm^-3^. This shows the conversion rate is gcm^-3^ * 1000 = kgm^-3^
+The density of water is 1 gcm^-3^ or 1000 kgm^-3^. This shows the conversion rate is gcm^-3^ * *1000* = kgm^-3^
 
 == Measuring Densities
-- Measure the mass of the object using a balance.
-- Place the object in a full eureka can, ensuring that it is fully submerged (pushing it gently as needed) and measure the volume of water displaced.
-- Use these values in the equation `density = mass / volume`
+. Measure the mass of the object using a balance.
+. Place the object in a full eureka can, ensuring that it is fully submerged (pushing it gently as needed) and measure the volume of water displaced.
+. Use these values in the equation `density = mass / volume`

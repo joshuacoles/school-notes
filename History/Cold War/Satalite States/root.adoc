@@ -1,0 +1,55 @@
+= Satellite States =
+Joshua Coles <josh@coles.to>
+$(date)
+
+image::https://upload.wikimedia.org/wikipedia/commons/0/02/Cold_war_europe_military_alliances_map_en.png[]
+
+== How did countries become satellite satates? ==
+.East Germany
+- Given to USSR.
+- "Free elections" in 1949, separated and became communist.
+- Protests but were but down violently.
+
+.Hungary
+- "Free elections" in 1945 lead communist coalition to win but in a minority.
+- "Free elections" saw they won by intimidation.
+
+.Poland
+- In 1945 communist coalition came to power.
+- Stalin took in nationals that had been exiled to London.
+- In 1947 "free elections" took over government, killed or imprisoned the previous exiles.
+
+.Czechoslovia
+- "Free elections" in 1945 communist coalition took over.
+- Communist government loosing support in 1946.
+- Communists use army to violently take over the government in 1948.
+
+.Romania
+- Communist coalition took over in 1945.
+- February forced to take communist president.
+- Took over in "free elections" in 1947.
+
+.Bulgaria
+- Communist coalition took over in 1944.
+- November 1945, "free elections", communists take over, opposition banned and executed.
+
+.Albania
+- Communists take over in 1945.
+- Least opposition to becoming a satellite state.
+
+.Yugoslavia
+- In 1945 Marshal Tito took over, worked well with USSR.
+- Wanted independence split and relations fell apart quickly.
+- Took Marshall Aid.
+
+[qanda]
+Common themes?::
+  They mostly started off in coalitions and then took over by force.
+Links between countries?::
+  Mostly in the east of Europe.
+Issues the satellite states would provide for the USSR?::
+  They would not necessarily remain loyal to the USSR even if they were communist (e.g. Yugoslavia).
+
+== Cominform (1947) ==
+- It was an international orginaisation that represented the communist parties from across Europe and brought them under the control of the USSR.
+- The first Cominform conference rejected the Marshall Plan.
