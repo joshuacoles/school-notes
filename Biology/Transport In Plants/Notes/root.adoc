@@ -104,6 +104,11 @@ The presence of an impermeable waxy cuticle over the epidermis reduces water los
 
 So the main loss is through the stomata
 
+== Translocation ==
+- Active process.
+- Needs supply of energy.
+- Occurs in sieve tube cell of the phloem tissues.
+
 ==== Measurement
 .Weight Potometer
 Simplest method is by using a weight potometer.

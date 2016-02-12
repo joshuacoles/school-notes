@@ -1,0 +1,40 @@
+= Dividing Germany & The Berlin Blockade =
+Joshua Coles <josh@coles.to>
+$(date)
+
+[horizontal]
+Bizonia:: The combination of the US and UK zones.
+Trizonia:: The combination of the Bizonia and the French zones.
+
+West Germany was officially named the Federal Republic of Germany (FDR).
+East Germany was officially named the German Democratic Republic (GDR).
+
+[qanda]
+. What did Stalin see as the first steps to creating a permanently divided Germany?
+    TODO:[finish]
+
+[shaape]
+----
+Trizonia setup a German Assembly and a German Constitution.
+                                            |
+Trizonia setup the Deutsch Mark for Western-+
+              Germany                       |
+                                            |
+Stalin wanted to prevent the establishment -+-> Because of this he set up a blockade ---> This separated the main Western areas from their are in
+    of a separate West German sate.                    around Western Berlin.                     the capital.
+                                                              |                                         |
+    +---------------------------------------------------------+-----------------------------------------+
+    |
+    |                                           Made Truman look humanitarian and Stalin a highly aggressive  --+
+    |                                                             and was used in propaganda.                   |
+    |                                                                           ^                               |
+    v                                                                           |                               |
+This caused Truman to setup the 'Berlin Airlift' where allied ------> Caused the blockade to fail --------------+
+ planes transported supplies to the Trizonia around the clock                                                   |
+          |              |                                                                                      |
+          |              v                                                                                      |
+          |  Transported over 170,000 tonnes of food in Jan 1949.                                               |
+          |              ^                                                                                      v
+          |              |                                                                               May 1949 blockade ended
+          +--> This caused the British to setup a similar system.
+----

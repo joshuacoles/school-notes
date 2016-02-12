@@ -43,5 +43,5 @@ Shaped due to the highly viscose, silicic, lava and the eruption process.
   to bear.
 . As the magma/lava cools it forms a new plug repeating the process.
 
-.Example 5.1.1: Stratovolcano
+.Example 5.1.2: Stratovolcano
 image:stratovolcano.png[,500]

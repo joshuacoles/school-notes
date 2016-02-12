@@ -1,0 +1,41 @@
+= Reactivity Series =
+Joshua Coles <josh@coles.to>
+$(date)
+
+[shaape]
+-------------
+      Most Reactive
+          ^
+Potassium | K
+   Sodium | Na
+  Calcium | Ca
+Magnesium | Mg
+ Aluminum | Al
+   Carbon | C  <----- All elements above carbon are obtained by electrolysis.
+     Zinc | Zn
+     Iron | Fe
+      Tin | Sn
+     Lead | Pb
+ Hydrogen | H  <---- React with acid.
+   Copper | Cu
+   Silver | Ag
+     Gold | Au
+ Platinum | Pt
+          v
+     Least Reactive
+--------
+
+A more reactive metal will *displace* the metal ions of a less reactive metal compound.
+
+.Example 1
+Zn~(s)~ (Gray Solid) + CuSO~4~~(aq)~ (Blue Solution) --> Cu(II)~(s)~ (Red Solid) + ZnSO~4~~(aq)~ (Colourless Solution)
+
+Conclusion: zinc is more reactive than copper.
+
+If no reaction occurs, the metal is less reactive.
+
+.Exmaple 2: Thermite
+2Al~(s)~ + Fe~2~O~3~~(s) --> Al~2~O~2~~(s)~ + 2Fe~(s)~
+
+.Exmaple 3
+Cu~(s)~ + 2AgNO~3~~(aq)~ --> Cu)(II)(NO~3~)~2~~(aq)~ + 2 Ag~(s)~

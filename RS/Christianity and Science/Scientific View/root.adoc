@@ -1,0 +1,26 @@
+= Scientific View =
+Joshua Coles <josh@coles.to>
+$(date)
+
+It is not the strongest of the species that survive, not the most intelligent, but the most responsive to change. -- *Charles Darwin*.
+
+Scientific knowledge is based on theories that are *tested* through experimentation and observation. A theory with enough supporting evidence provides us with *factual* knowledge of our world. -- *The Scientific Method*
+
+.Origins of...
+[horizontal]
+Universe:: Big Bang
+Humanity:: Evolution / Natural Selection / Survial of the Fittest
+
+== Big Bang ==
+Scientific evidence suggests that the universe was formed following a massive explosion (13.7M years ago).
+
+This is supported by the measurements of the cosmic background radiation (microwave) (CMB) by Penzias & Wilson.
+
+The expanding nature of the universe which suggests that the universe was formed through and explosion and then later expansion.
+
+== Evolution  ==
+Charles Darwin (1809 - 82) is credited with the discovery of evolution and how species evolved and changed to adapt to their environment. He detailed this in his book 'The Origin of Species'.
+
+In his book Darwin argued that life began with simple single celled organisms which later developed into the variety of species we see today directly and in the form of fossils. Those organisms that were able to survive to bring up more of their offspring would survive and those who could not would eventual become extinct. He called this process natural selection.
+
+Darwin concluded from this that humans were merely apes who had evolved to have the capacity to reason and use and create tools thus giving us an advantage. This was contrary to religious belief which stated that humans were unique.

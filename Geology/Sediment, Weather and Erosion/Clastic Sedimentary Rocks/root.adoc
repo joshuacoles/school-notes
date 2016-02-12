@@ -1,0 +1,18 @@
+= Clastic Sedimentary Rocks =
+Joshua Coles <josh@coles.to>
+$(date)
+
+Rocks formed when sediment is deposited. E.g. river, desert, beach or deep sea.
+
+== Coarse Grained (>2mm) ==
+Conglomerate:: Rounded, poorly sorted
+Breccia:: Angular, poorly sorted
+
+== Medium Grained (Sandstones) (1/16mm - 2mm) ==
+Red Sandstone:: Rounded, well sorted, quartz, hematite cement -- desert
+Arkose:: >25% feldspar -- river
+Orthoquartzite:: 95% quartz -- beach
+Graywcke:: poorly sorted, clay + quartz -- deep sea
+
+== Fine Grained (<1/16mm) ==
+Shale:: clay minerals, well sorted
