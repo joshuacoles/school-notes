@@ -8,3 +8,5 @@ object as having all its mass concentrated at that point.
 As weight is the force of gravity acting on a mass, we can also think of the
 force of gravity as acting at that point. When we are thinking about the
 influence of the force of gravity, we say it acts on the center of gravity.
+
+include::stability.adoc[]

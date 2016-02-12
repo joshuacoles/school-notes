@@ -1,10 +1,62 @@
 = Pressure =
-Author Name <mail@address.com>
-v1.0, `date`
+Joshua Coles <josh@coles.to>
+$(date)
+:stem: asciimath
 
-When a force is applied to an area, a pressure is exerted. Pressure is defined as the force per unit area. Pressure can be expressed mathematically using the formula asciimath:[Pressure = Force/Area] or asciimath:[p = F/A]. The standard unit for pressure is asciimath:[N/m^2] or asciimath:[Nm^(-2)]. This is called Pascal.
+When a force is applied to an area, a pressure is exerted. Pressure is defined as the force per unit area. Pressure can be expressed mathematically using the formula stem:[Pressure = ("Force")/(Area)] or stem:[p = F/A]. The standard unit for pressure is stem:[N//m^2] or stem:[Nm^(-2)]. This is called Pascal.
 
-[asciimath]
+[stem]
 ++++
 p = F/A
 ++++
+
+
+== Solids ==
+The pressure exerted by a solid comes about as a result of the weight of a solid and the contact surface area.
+
+== Fluids ==
+In a fluid, liquids and gases, the pressure comes about as a result of particles moving in all directions. This means in a fluid, the pressure is not just downwards but is in all directions.
+
+=== Atmospheric Pressure ===
+The atmospheric pressure at the Earth's surface is about stem:[100,000\ Pa]. This means that every stem:[m^2] of surface area has stem:[100000\ N] applied to it.
+
+There are stem:[10,000\ cm^2] in a stem:[m^2]. This means there are 10 newtons applied to every every cm^2^. This is the equivalent of 1kg on every cm^2^ on surface area.
+
+=== Static Fluid Pressure ===
+
+stem:[p = F/A]
+
+stem:[F(W) = mg]
+
+stem:[rho = m/V :. m = rho * V]
+
+stem:[V = A * h]
+
+Thus:
+
+stem:[p = F/A]
+
+stem:[p = (m * g)/A]
+
+stem:[p = (rho * V * g)/A]
+
+stem:[p = (rho * V * g)/A]
+
+stem:[p = (rho * A * h * g)/A]
+
+stem:[p = rho * h * g]
+
+Therefore the final formula is: stem:[p = rhohg].
+
+Pressure is in Pascals when density is in stem:[kgm^3], stem:[g] is in stem:[NKg^-1] and stem:[h] is in stem:[m].
+
+==== Evangelista Torricelli ====
+In 1643 Evangelista Torricelli conducted an experiment with a vat of mercury and a glass tube sealed at one end. When the tube was filled with mercury and the open end placed under the level of the mercury, he found that the atmospheric pressure would support a column of mercury up to stem:[76cm] high. Once the tube was raised above that point, a Torricellian vacuum would appear at the top of the tube.
+
+Torricelli noted that the hight of the column of mercury would vary from day to day. He had invented the barometer.
+
+According to Torricelli atmospheric pressure must equal the pressure exerted by the column of mercury:
+
+stem:[p = rhogh]
+
+stem:[p = 13600 * 10 * 0.76 = 103,360\ Pa]

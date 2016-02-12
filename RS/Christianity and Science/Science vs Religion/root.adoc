@@ -1,0 +1,23 @@
+= Significant People =
+Joshua Coles <josh@coles.to>
+$(date)
+
+== Science ==
+.Darwin
+Darwin invented the Theory of Evolution / Natural Selection which stated that species evolved from one organism but adapted to better suit their environment.
+
+== Creationist ==
+.James Ussher
+James Ussher was a 17th century English Bishop who calculated the time of creation to be 9 a.m. on 26^th^ October 4004 BCE. This was based on the dates present in the Bible however is billions of years after the date supported by science.
+
+.Philip Gosse
+Philip Gosse suggested that fossils were but in the ground by God to test the faith of Christians and was a strong literalist Christian.
+
+== Both ==
+.St. Augustine
+In the 4th century St. Augustine said that God most have invented time when he made creation. This means that time was relative to God and did not work as we understand it to, a flowing continuum. So it did not really matter if the Biblical account was entirely chronologically accurate as creation would have occurred outside of time.
+
+He also said: "In the beginning were created and germs and causes of the forms of life which were afterwards to be developed in gradual course".
+
+.Paley (Telelological argument: complexity and RNGs)
+Paley believed that since the world is are so complex that it must have had a designer. This is inline with the teleological argument for the existence of God. Another supporter of this view was *Isaac Newton*.

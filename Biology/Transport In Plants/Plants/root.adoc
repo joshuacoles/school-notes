@@ -1,0 +1,27 @@
+= Plants =
+Joshua Coles <josh@coles.to>
+$(date)
+
+== Types ==
+
+[horizontal]
+Halophytes:: Plants that live on sand dunes
+Xerophytes:: Plants that live in arid deserts
+Hydrophytes:: Plants that live in high water conditions
+
+=== Xerophytes ===
+- Small surface area to minimise evaporation (dosen't need as much area for photosynthesis as it's so bright).
+- Spines instead of leaves.
+- Stems that can store water.
+- Specialist root system
+* Shallow wide for capturing the small amount of water available on the surface.
+* Long deep roots for accessing subterranean water systems.
+- OR: Like tumble weed go dormant when there isn't enough for water and only grow and reproduce when there is.
+- Leaves reduced to spines cuts down Sa and deter animals.
+- Ground hugging shape to prevent exposure to wind.
+
+=== Marram Grass ===
+Has long roots (20m) to reach areas that have a higher &Phi;
+
+== Mineral Requirements ==
+TODO:[Finish Stuf]
